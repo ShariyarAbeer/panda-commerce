@@ -13,6 +13,10 @@
 .price {
   color: #ff136f;
 }
+.send-bg:hover {
+  background-color: #ff136f;
+  color: white;
+}
 .white {
   color: white;
 }
