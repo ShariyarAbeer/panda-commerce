@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+.cover-bg-color {
+  background-color: rgb(253, 232, 235);
+}
+
+.image-size {
+  height: 100%;
+  width: 100%;
+}
+.price {
+  color: #ff136f;
+}
+.white {
+  color: white;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
