@@ -24,3 +24,11 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+.buy-shoes-button {
+  background-image: linear-gradient(to bottom, #494646 0%, #201f1f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
